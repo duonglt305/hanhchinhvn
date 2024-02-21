@@ -2,6 +2,13 @@
 
 Phân cấp hành chính Việt Nam export từ nguồn Tổng Cục Thống Kê.
 
+## Cài đặt:
+
+### NPM:
+```shell
+npm install hanhchinhvn
+```
+
 ### Cấu trúc thư mục:
 
 - **excel_files/**: thư mục chứa các file excel lấy từ Tổng Cục Thống Kê
@@ -20,4 +27,8 @@ Phân cấp hành chính Việt Nam export từ nguồn Tổng Cục Thống Kê
 
 ### Nguồn dữ liệu
 
-**Tổng Cục Thống Kê**: [http://www.gso.gov.vn/dmhc2015/](http://www.gso.gov.vn/dmhc2015/)
+**Tổng Cục Thống Kê**: [https://danhmuchanhchinh.gso.gov.vn/](https://danhmuchanhchinh.gso.gov.vn/)
+
+### Changelog
+
+Tham khảo file [changelog.md](./changelog.md) để biết lịch sử thay đổi.

@@ -50,12 +50,12 @@
         "parent_code": "304"
     },
     "11344": {
-        "name": "Lương Khánh Thiện",
+        "name": "Cầu Đất",
         "type": "phuong",
-        "slug": "luong-khanh-thien",
-        "name_with_type": "Phường Lương Khánh Thiện",
-        "path": "Lương Khánh Thiện, Ngô Quyền, Hải Phòng",
-        "path_with_type": "Phường Lương Khánh Thiện, Quận Ngô Quyền, Thành phố Hải Phòng",
+        "slug": "cau-dat",
+        "name_with_type": "Phường Cầu Đất",
+        "path": "Cầu Đất, Ngô Quyền, Hải Phòng",
+        "path_with_type": "Phường Cầu Đất, Quận Ngô Quyền, Thành phố Hải Phòng",
         "code": "11344",
         "parent_code": "304"
     },
@@ -77,16 +77,6 @@
         "path": "Đông Khê, Ngô Quyền, Hải Phòng",
         "path_with_type": "Phường Đông Khê, Quận Ngô Quyền, Thành phố Hải Phòng",
         "code": "11350",
-        "parent_code": "304"
-    },
-    "11353": {
-        "name": "Cầu Đất",
-        "type": "phuong",
-        "slug": "cau-dat",
-        "name_with_type": "Phường Cầu Đất",
-        "path": "Cầu Đất, Ngô Quyền, Hải Phòng",
-        "path_with_type": "Phường Cầu Đất, Quận Ngô Quyền, Thành phố Hải Phòng",
-        "code": "11353",
         "parent_code": "304"
     },
     "11356": {
